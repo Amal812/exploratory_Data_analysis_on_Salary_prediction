@@ -1,0 +1,1 @@
+This project aims to predict the prices of mobile phones based on their features using machine learning algorithms. The goal is to develop a model that can accurately predict the prices of mobile phones based on their characteristics such as RAM, storage, camera quality, battery life, and more.
